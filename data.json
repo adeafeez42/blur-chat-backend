@@ -1,0 +1,205 @@
+{
+  "users": [
+    {
+      "id": "1762031893840",
+      "name": "Adebayo Afeez Omobolaji",
+      "username": "shuttdavid9@gmail.com",
+      "email": "shuttdavid9@gmail.com",
+      "avatar": "👤",
+      "createdAt": "2025-11-01T21:18:13.840Z",
+      "lastSeen": "Online"
+    },
+    {
+      "id": "1762031934583",
+      "name": "krystal ahki",
+      "username": "krystalahki42",
+      "email": "krystalahki42@gmail.com",
+      "avatar": "👤",
+      "createdAt": "2025-11-01T21:18:54.583Z",
+      "lastSeen": "Online"
+    },
+    {
+      "id": "1762032075919",
+      "name": "krystal",
+      "username": "crystalahki42",
+      "email": "crystalahki42@gmail.com",
+      "avatar": "👤",
+      "createdAt": "2025-11-01T21:21:15.919Z",
+      "lastSeen": "Online"
+    }
+  ],
+  "messages": [
+    {
+      "senderId": "1762031934583",
+      "senderName": "krystal ahki",
+      "receiverId": "1762031893840",
+      "text": "hi",
+      "timestamp": "2025-11-01T21:19:01.581Z",
+      "id": "1762031941581",
+      "status": "delivered",
+      "read": true,
+      "readAt": "2025-11-01T21:19:16.181Z"
+    },
+    {
+      "senderId": "1762031893840",
+      "senderName": "Adebayo Afeez Omobolaji",
+      "receiverId": "1762031934583",
+      "text": "hello",
+      "timestamp": "2025-11-01T21:19:23.386Z",
+      "id": "1762031963386",
+      "status": "delivered",
+      "read": true,
+      "readAt": "2025-11-01T21:20:02.199Z"
+    },
+    {
+      "senderId": "1762031934583",
+      "senderName": "krystal ahki",
+      "receiverId": "1762031893840",
+      "text": "how are you doing",
+      "timestamp": "2025-11-01T21:19:41.945Z",
+      "id": "1762031981945",
+      "status": "delivered",
+      "read": true,
+      "readAt": "2025-11-01T21:22:10.515Z"
+    },
+    {
+      "senderId": "1762031893840",
+      "senderName": "Adebayo Afeez Omobolaji",
+      "receiverId": "1762031934583",
+      "text": "fine thank you",
+      "timestamp": "2025-11-01T21:19:54.425Z",
+      "id": "1762031994425",
+      "status": "delivered",
+      "read": true,
+      "readAt": "2025-11-01T21:20:02.200Z"
+    },
+    {
+      "senderId": "1762032075919",
+      "senderName": "krystal",
+      "receiverId": "1762031893840",
+      "text": "hi",
+      "timestamp": "2025-11-01T21:21:38.900Z",
+      "id": "1762032098900",
+      "status": "delivered",
+      "read": true,
+      "readAt": "2025-11-01T21:22:11.798Z"
+    },
+    {
+      "senderId": "1762031893840",
+      "senderName": "Adebayo Afeez Omobolaji",
+      "receiverId": "1762032075919",
+      "text": "hi",
+      "timestamp": "2025-11-01T21:22:18.630Z",
+      "id": "1762032138630",
+      "status": "delivered",
+      "read": false
+    },
+    {
+      "senderId": "1762031893840",
+      "senderName": "Adebayo Afeez Omobolaji",
+      "receiverId": "1762032075919",
+      "text": "hi",
+      "timestamp": "2025-11-01T21:22:45.961Z",
+      "id": "1762032165961",
+      "status": "delivered",
+      "read": false
+    },
+    {
+      "senderId": "1762032075919",
+      "senderName": "krystal",
+      "receiverId": "1762031934583",
+      "text": "hi",
+      "timestamp": "2025-11-01T21:22:50.777Z",
+      "id": "1762032170777",
+      "status": "delivered",
+      "read": false
+    },
+    {
+      "senderId": "1762031893840",
+      "senderName": "Adebayo Afeez Omobolaji",
+      "receiverId": "1762031934583",
+      "text": "hi",
+      "timestamp": "2025-11-01T21:31:33.049Z",
+      "id": "1762032693049",
+      "status": "delivered",
+      "read": true,
+      "readAt": "2025-11-01T21:31:40.437Z"
+    },
+    {
+      "senderId": "1762031934583",
+      "senderName": "krystal ahki",
+      "receiverId": "1762031893840",
+      "text": "yes",
+      "timestamp": "2025-11-01T21:31:46.340Z",
+      "id": "1762032706340",
+      "status": "delivered",
+      "read": true,
+      "readAt": "2025-11-01T21:45:57.951Z"
+    },
+    {
+      "senderId": "1762031893840",
+      "senderName": "Adebayo Afeez Omobolaji",
+      "receiverId": "1762032075919",
+      "text": "hi",
+      "timestamp": "2025-11-01T21:44:54.013Z",
+      "id": "1762033494013",
+      "status": "sent",
+      "read": false
+    },
+    {
+      "senderId": "1762031934583",
+      "senderName": "krystal ahki",
+      "receiverId": "1762031893840",
+      "text": "hello",
+      "timestamp": "2025-11-01T21:45:14.524Z",
+      "id": "1762033514524",
+      "status": "delivered",
+      "read": true,
+      "readAt": "2025-11-01T21:45:57.951Z"
+    },
+    {
+      "senderId": "1762031934583",
+      "senderName": "krystal ahki",
+      "receiverId": "1762031893840",
+      "text": "daddy",
+      "timestamp": "2025-11-01T21:45:55.475Z",
+      "id": "1762033555475",
+      "status": "delivered",
+      "read": true,
+      "readAt": "2025-11-01T21:45:57.951Z"
+    },
+    {
+      "senderId": "1762031893840",
+      "senderName": "Adebayo Afeez Omobolaji",
+      "receiverId": "1762032075919",
+      "text": "hi",
+      "timestamp": "2025-11-01T21:52:48.499Z",
+      "id": "1762033968499",
+      "status": "sent",
+      "read": false
+    },
+    {
+      "senderId": "1762031893840",
+      "senderName": "Adebayo Afeez Omobolaji",
+      "receiverId": "1762031934583",
+      "text": "hello",
+      "timestamp": "2025-11-01T21:52:58.523Z",
+      "id": "1762033978523",
+      "status": "delivered",
+      "read": true,
+      "readAt": "2025-11-01T21:53:02.605Z"
+    },
+    {
+      "senderId": "1762031893840",
+      "senderName": "Adebayo Afeez Omobolaji",
+      "receiverId": "1762031934583",
+      "text": "hi",
+      "timestamp": "2025-11-01T22:08:16.713Z",
+      "id": "1762034896713",
+      "status": "delivered",
+      "read": true,
+      "readAt": "2025-11-01T22:08:18.732Z"
+    }
+  ],
+  "typingUsers": {}
+}

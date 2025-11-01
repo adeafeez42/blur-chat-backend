@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Adebayo Afeez Omobolaji",
+    "email": "shuttdavid9@gmail.com",
+    "username": "shuttdavid9@gmail.com",
+    "avatar": "👤",
+    "chatPreferences": {
+      "layout": "bubble",
+      "showAvatars": true,
+      "timestamps": true
+    },
+    "createdAt": "2025-11-01T20:29:48.472Z"
+  },
+  {
+    "id": 2,
+    "name": "krystal ahki",
+    "email": "krystalahki42@gmail.com",
+    "username": "krystalahki42",
+    "avatar": "👤",
+    "chatPreferences": {
+      "layout": "bubble",
+      "showAvatars": true,
+      "timestamps": true
+    },
+    "createdAt": "2025-11-01T20:30:08.350Z"
+  }
+]
