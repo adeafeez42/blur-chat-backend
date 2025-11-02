@@ -400,3 +400,4 @@ server.listen(PORT, () => {
   console.log('💾 Permanent storage: Enabled');
   console.log('🌐 CORS enabled for: http://localhost:3000');
 });
+ 
